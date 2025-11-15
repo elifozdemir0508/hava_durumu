@@ -1,0 +1,12 @@
+python sürümü: 3.13.9
+
+veri için:
+pandas sürümü : 2.2.2
+numpy sürümü : 1.26.4
+
+veri görselleştirme:
+matplotlib: 3.8.0
+
+jupiter nootbook : 4.0.7
+
+çalıştırma yeri : visiual studio
