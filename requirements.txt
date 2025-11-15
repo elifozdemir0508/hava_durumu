@@ -1,3 +1,5 @@
+# hava durumu
+
 python sürümü: 3.13.9
 
 veri için:
